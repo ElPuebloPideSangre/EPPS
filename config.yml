@@ -6,7 +6,7 @@ subtitle: "El Pueblo Pide Sangre"
 logo: "assets/logo.png"
 
 header: false
-footer: '<p>EPPS <a href="https://www.elpueblopidesangre.org">elpueblopidesangre.org</a> (2026 - 2026) | <i class="fab fa-github-alt"></i> <a href="https://github.com/iStxfaa/epps/blob/main/config.yml">fuente</a> 🄯 copyleft | Agradecimientos especiales al Software Libre y a <a href="https://github.com/bastienwirtz/homer">Homer</a> <i class="fab fa-github-alt"></i></p>'
+footer: '<p>EPPS <a href="https://www.elpueblopidesangre.org">elpueblopidesangre.org</a> (2026 - 2026) | <i class="fab fa-github-alt"></i> <a href="https://github.com/iStxfaa/EPPS/blob/main/config.yml">fuente</a> 🄯 copyleft | Agradecimientos especiales al Software Libre y a <a href="https://github.com/bastienwirtz/homer">Homer</a> <i class="fab fa-github-alt"></i></p>'
 
 columns: "3"
 connectivityCheck: true
